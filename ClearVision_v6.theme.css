@@ -41,7 +41,7 @@
 	/* APP BACKGROUND */
 	--background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
 	--background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-	--background-image: url(https://cdn.discordapp.com/attachments/691646450202968124/872936904411185162/saturno-en-paisaje-montanoso-7262.png?ex=65fc9658&is=65ea2158&hm=fd3326e007e97f841b14e1033674ef57a3715aa5d261988fc585d0016742707c&); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
+	--background-image: url(https://www.xtrafondos.com/descargar.php?id=7262&resolucion=3840x2160); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
 	--background-position: center; /* app background position [default: center] */
 	--background-size: cover; /* app background size [default: cover] */
 	--background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
