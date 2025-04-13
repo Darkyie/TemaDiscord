@@ -41,7 +41,7 @@
 	/* APP BACKGROUND */
 	--background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
 	--background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-	--background-image: url(https://www.xtrafondos.com/descargar.php?id=7262&resolucion=3840x2160); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
+	--background-image: url(https://cdn.discordapp.com/attachments/547902885631885312/1361038486534357103/descargar.png?ex=67fd4d5e&is=67fbfbde&hm=f19fdeaba4d2bd3e45383231e78ef387c2c8129227b807a1faf0e5560dbbf3a1&); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
 	--background-position: center; /* app background position [default: center] */
 	--background-size: cover; /* app background size [default: cover] */
 	--background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
